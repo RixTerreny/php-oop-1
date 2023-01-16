@@ -16,7 +16,7 @@ include_once "./classi/movie.php"
     $film1 = new film("Il gatto con gli stivali 2 - L'ultimo desiderio","avventura",2022,"ita");
     $film1-> showdata();
 
-    echo ();
+    echo "<br>";
 
     $film1 = new film("Shrek","avventura",2001,"ita");
     $film1-> showdata();
